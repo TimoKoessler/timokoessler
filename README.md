@@ -1,17 +1,13 @@
-## Hello! 👋
+## Hello World! 👋
 ```javascript
 var timo = {
 	pronouns: "He" | "Him",
 	role: "Student",
 	code: ["Javascript", "PHP", "Java", "Python", "C#"],
-	tools: ["VS Code", " Docker", "VS Studio", "MariaDB / Mysql", "Linux", "MongoDB"],
-	work: "ISIS IC GmbH",
+	tools: ["VS Code", "Docker", "Linux", "MongoDB", "VS Studio", "MariaDB / Mysql"],
 	study: "Westfälische Hochschule (Bachelor)",
-	contact: {
-		web: {
-			en: "https://timokoessler.eu",
-			de: "https://timokoessler.de",
-		},
+	more: {
+		web: "https://timokoessler.de",
 		twitter: "@timokoessler",
 		linkedin: "timokoessler"
 	}
