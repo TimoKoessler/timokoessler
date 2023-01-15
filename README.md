@@ -11,7 +11,8 @@
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">&emsp;
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007acc.svg?logo=typescript&logoColor=white">&emsp;
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>&emsp;
+  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"/>&emsp;
 </p>
 
 ### Frontend development
@@ -37,15 +38,17 @@
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT%20-%23650065.svg?logo=mqtt&logoColor=white">
 </p>
 
-### Databases & Platform
+### Database, Software & Tools
 
 <p align="left"> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23589636.svg?logo=mongodb&logoColor=white">&emsp;
   <img alt="Linux" src="https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=linux&logoColor=black">&emsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?logo=docker&logoColor=white">&emsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23589636.svg?logo=mongodb&logoColor=white">&emsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05032.svg?logo=git&logoColor=white">&emsp;
   <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab%20CI/CD%20-%23fc6d26.svg?logo=gitlab&logoColor=white">&emsp;
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?logo=visual%20studio%20code&logoColor=white">&emsp;
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx%20-%23008d36.svg?logo=nginx&logoColor=white">&emsp;
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23f29111.svg?logo=mariadb&logoColor=white">&emsp;
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?logo=wordpress&logoColor=white">&emsp;
   <img alt="Redis" src="https://img.shields.io/badge/Redis%20-%23D82C20.svg?logo=redis&logoColor=white">
 </p>
-
