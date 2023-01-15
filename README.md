@@ -50,5 +50,4 @@
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx%20-%23008d36.svg?logo=nginx&logoColor=white">&emsp;
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23f29111.svg?logo=mariadb&logoColor=white">&emsp;
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?logo=wordpress&logoColor=white">&emsp;
-  <img alt="Redis" src="https://img.shields.io/badge/Redis%20-%23D82C20.svg?logo=redis&logoColor=white">
 </p>
