@@ -1,6 +1,6 @@
 # Hi, I'm Timo 👋
 
-I am a software developer and student from Germany. Check out my projects below or visit my website.
+I'm a Software Engineer and Computer Science student based in Germany. I am currently working on [Zen by Aikido](https://github.com/AikidoSec/firewall-node/).
 
 [`🏠 timokoessler.de`](https://timokoessler.de)
 [`📬 info@timokoessler.de`](mailto:info@timokoessler.de)
